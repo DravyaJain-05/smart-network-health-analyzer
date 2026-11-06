@@ -121,4 +121,4 @@ These thresholds are project-defined rules for analysis.
 
 ## Author
 
-Developed as a Python Essentials project.
+Project maintained by: Dravya Jain
